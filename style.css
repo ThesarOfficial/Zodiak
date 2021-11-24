@@ -1,0 +1,27 @@
+body {
+    background-color: tomato;
+}
+
+.container {
+    max-width: 600px;
+}
+
+#form {
+    padding: 50px 0;
+}
+
+#form .container {
+    position: relative;
+    background-color: #fff;
+    padding: 25px;
+}
+
+#result {
+    padding: 50px 0;
+}
+
+#result .container {
+    position: relative;
+    background-color: #fff;
+    padding: 25px;
+}
